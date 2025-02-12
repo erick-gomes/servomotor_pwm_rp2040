@@ -15,7 +15,7 @@
         "id": "r1",
         "top": 157.55,
         "left": 201.6,
-        "attrs": { "value": "330" }
+        "attrs": { "value": "1000" }
       },
       { "type": "wokwi-led", "id": "led1", "top": 63.6, "left": 167, "attrs": { "color": "blue" } },
       { "type": "wokwi-servo", "id": "servo1", "top": -40.4, "left": 422.4, "attrs": {} }
