@@ -9,11 +9,6 @@ Este projeto demonstra como controlar um servomotor e um LED de forma sincroniza
 - [Visão Geral](#visão-geral)
 - [Características](#características)
 - [Arquitetura e Funcionamento](#arquitetura-e-funcionamento)
-- [Exemplo de Código](#exemplo-de-código)
-- [Configuração e Compilação](#configuração-e-compilação)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ---
 
